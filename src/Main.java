@@ -4,5 +4,6 @@ public class Main {
         System.out.println("zaimi");
         System.out.println("boran");
         System.out.println("ouch");
+        System.out.println("line7");
     }
 }
